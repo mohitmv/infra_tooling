@@ -1,0 +1,5 @@
+build-dbg/
+.sconsign.dblite
+__pycache__
+*.pyc
+tools/local_configs.py
